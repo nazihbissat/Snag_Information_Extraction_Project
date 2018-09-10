@@ -1,0 +1,37 @@
+T1	Product 113 120	FanShop
+T2	Product 146 171	the Senior Merchant/Buyer
+T3	Organization 327 329	AP
+T4	Product 415 422	FanShop
+T5	Product 469 476	FanShop
+T6	Organization 544 547	
+  
+T7	Organization 577 591	
+  - Materials
+T8	Organization 667 669	PO
+T9	Organization 803 805	PO
+T10	Person 941 952	Coordinates
+T11	Organization 1054 1056	AP
+T12	Organization 1601 1604	SAP
+T13	Location_Geo-Political_Area 1620 1622	PO
+T14	Organization 1727 1729	AP
+T15	Organization 1778 1789	Coordinates
+T16	Job_Title_or_Degree 1936 1996	the Senior Merchant.
+
+Qualifications/Requirements
+
+  - Prior
+T17	Organization 2124 2127	
+  
+T18	Organization 2188 2199	
+  - Highly
+T19	Organization 2249 2252	
+  
+T20	Organization 2291 2294	
+  
+T21	Location_Geo-Political_Area 2296 2312	Strong Microsoft
+T22	Organization 2365 2368	
+  
+T23	Organization 2370 2373	SAP
+T24	Organization 2377 2389	Retail Suite
+T25	Organization 2430 2442	
+  - Ability

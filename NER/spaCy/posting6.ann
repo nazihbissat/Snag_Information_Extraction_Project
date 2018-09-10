@@ -1,0 +1,20 @@
+T1	Person 221 225	Earn
+T2	Date 248 254	weekly
+T3	Date 261 268	Sundays
+T4	Time 286 291	hours
+T5	Organization 310 317	DELIVER
+T6	Organization 441 449	Multiple
+T7	Cardinal 823 825	18
+T8	Date 827 832	years
+T9	Location_Geo-Political_Area 863 865	US
+T10	Date 904 912	2+ years
+T11	Organization 979 985	iPhone
+T12	Person 1001 1013	Android 4.0+
+T13	Cardinal 1033 1038	30-40
+T14	Organization 1676 1685	Uber Eats
+T15	Date 1804 1813	, weekend
+T16	Date 1815 1822	weekday
+T17	Location_Geo-Political_Area 2171 2173	SF
+T18	Organization 2261 2289	the SF Fair Chance Ordinance
+T19	Time 2300 2315	under 5 minutes
+T20	Date 2367 2375	one week

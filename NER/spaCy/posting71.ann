@@ -1,0 +1,51 @@
+T1	Organization 27 53	Equal Opportunity Employer
+T2	Location_Geo-Political_Area 351 356	Entry
+T3	Organization 635 638	MVR
+T4	Organization 724 733	
+  - Pick
+T5	Organization 769 778	
+  - Pick
+T6	Organization 799 802	
+  
+T7	Date 813 819	weekly
+T8	Date 822 829	monthly
+T9	Organization 841 851	
+  - Daily
+T10	Person 881 920	
+
+Secondary Responsibilities
+
+  - Store
+T11	Person 1053 1068	Success Factors
+T12	Organization 1110 1122	
+  - Ability
+T13	Organization 1151 1164	
+  - Friendly
+T14	Organization 1178 1190	
+  - Ability
+T15	Organization 1216 1227	
+  - Safety
+T16	Organization 1248 1251	
+  
+T17	Organization 1313 1345	
+
+Essential Job Skills Necessary
+T18	Organization 1350 1357	Success
+T19	Location_Geo-Political_Area 1363 1369	Driver
+T20	Language 1391 1398	English
+T21	Language 1400 1407	Spanish
+T22	Organization 1885 1889	Sets
+T23	Location_Geo-Political_Area 1892 1898	Driver
+T24	Organization 1906 1925	Success
+
+Automotive
+T25	Organization 2017 2020	GED
+T26	Person 2021 2035	
+
+Certificates
+T27	Person 2037 2045	Licenses
+T28	Organization 2126 2136	
+
+Physical
+T29	Quantity 2689 2704	up to 50 pounds
+T30	Quantity 2739 2755	up to 100 pounds

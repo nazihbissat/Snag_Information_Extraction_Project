@@ -1,0 +1,23 @@
+T1	Person 8 21	
+
+Contributes
+T2	Nationality_or_Religion_or_Political_group 311 320	Allocates
+T3	Location_Geo-Political_Area 1665 1670	Brand
+T4	Person 1784 1790	Guides
+T5	Organization 1865 1869	Uses
+T6	Organization 1921 1926	Brand
+T7	Location_Geo-Political_Area 1968 1978	Understand
+T8	Organization 2246 2250	
+  -
+T9	Organization 2459 2468	Knowledge
+T10	Person 2470 2482	Capabilities
+T11	Language 3299 3306	English
+T12	Nationality_or_Religion_or_Political_group 3911 3919	Brannock
+T13	Quantity 3978 3993	up to 25 pounds
+T14	Quantity 4028 4043	up to 50 pounds
+T15	Date 4209 4226	18 years or older
+T16	Organization 4299 4302	GED
+T17	Person 4303 4307	
+  -
+T18	Date 4316 4325	12 months
+T19	Organization 4856 4882	Equal Opportunity Employer

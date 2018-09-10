@@ -1,0 +1,57 @@
+T1	Organization 113 120	GolfNow
+T2	Organization 274 281	GolfNow
+T3	Cardinal 410 424	over 3 million
+T4	Organization 456 463	GolfNow
+T5	Date 464 474	every year
+T6	Organization 480 496	Golfer Care Team
+T7	Organization 571 605	GolfNow Golfer Care Representative
+T8	Date 760 770	next month
+T9	Time 841 855	this afternoon
+T10	Organization 875 901	the Golfer Care Specialist
+T11	Person 1193 1202	
+
+Deliver
+T12	Job_Title_or_Degree 1258 1272	
+
+Enthusiastic
+T13	Product 1369 1383	
+
+Consistently
+T14	Product 1606 1617	Participate
+T15	Date 1631 1636	daily
+T16	Job_Title_or_Degree 1741 1754	
+
+Participate
+T17	Person 1821 1832	Golfer Care
+T18	Organization 1877 1880	NPS
+T19	Job_Title_or_Degree 1910 1967	
+
+Qualifications/Requirements
+
+Basic Qualifications
+
+Tech
+T20	Person 2058 2069	
+
+Knowledge
+T21	Organization 2114 2127	
+
+Familiarity
+T22	Organization 2133 2147	SalesForce.com
+T23	Person 2164 2172	
+
+Strong
+T24	Person 2184 2190	
+
+High
+T25	Person 2292 2298	
+
+Able
+T26	Law 2355 2386	
+
+Additional Job Requirements
+
+
+T27	Organization 2428 2430	CV
+T28	Time 2698 2706	24 hours
+T29	Language 2764 2771	Spanish

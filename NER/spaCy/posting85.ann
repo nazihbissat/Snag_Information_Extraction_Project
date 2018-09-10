@@ -1,0 +1,30 @@
+T1	Organization 0 10	United BMW
+T2	Organization 14 37	Penske Automotive Group
+T3	Organization 60 67	Roswell
+T4	Organization 69 71	GA
+T5	Job_Title_or_Degree 209 220	EXCEPTIONAL
+T6	Job_Title_or_Degree 322 333	Fortune 500
+T7	Organization 1002 1025	Penske Automotive Group
+T8	Cardinal 1255 1258	401
+T9	Organization 1258 1261	K
+
+
+T10	Location_Geo-Political_Area 1326 1337	Salesperson
+T11	Organization 1339 1359	Sales Representative
+T12	Organization 1361 1388	Sales Rep, Customer Service
+T13	Organization 1397 1428	Automotive, Auto, Brand Manager
+T14	Person 1430 1448	Product Specialist
+T15	Organization 1450 1472	Account Representative
+T16	Organization 1474 1485	Account Rep
+T17	Organization 1776 1779	CSI
+T18	Organization 1886 1898	
+
+Req Number
+T19	Person 1904 1910	
+
+Type
+T20	Job_Title_or_Degree 1921 1934	
+
+Dealership:
+T21	Date 1965 1970	11458
+T22	Facility 1971 1989	Alpharetta Highway

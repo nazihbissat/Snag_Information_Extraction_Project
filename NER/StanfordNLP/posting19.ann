@@ -1,0 +1,33 @@
+T1	Title 19 26	general
+T2	Title 241 251	consultant
+T3	Organization 272 275	SAS
+T4	Title 276 286	programmer
+T5	Organization 752 755	SAS
+T6	Title 779 785	vendor
+T7	Organization 909 912	SAS
+T8	Organization 949 952	SAS
+T9	Title 1926 1934	Bachelor
+T10	Number 2080 2084	four
+T11	Number 2086 2087	4
+T12	Organization 2171 2200	General Education Development
+T13	Organization 2538 2554	Microsoft Office
+T14	Religion 2855 2866	independent
+T15	Number 2986 2991	three
+T16	Number 2993 2994	3
+T17	Organization 3017 3020	SAS
+T18	Person 3030 3036	Python
+T19	Number 3071 3076	three
+T20	Number 3078 3079	3
+T21	Organization 3255 3258	SAS
+T22	Location: State or Province 3422 3432	California
+T23	Location: City 3433 3442	Lancaster
+T24	Person 3443 3452	Lancaster
+T25	Ordinal 3453 3457	10th
+T26	Number 3483 3486	615
+T27	Number 3518 3520	40
+T28	Time 3587 3594	8:00 AM
+T29	Time 3614 3621	5:00 PM
+T30	Organization 3800 3833	Information Technology Department
+T31	Percent 3863 3866	5 %
+T32	Organization 3874 3897	Time Kaiser Permanente
+T33	Location: City 4623 4636	San Francisco

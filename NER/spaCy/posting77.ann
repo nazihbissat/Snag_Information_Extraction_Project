@@ -1,0 +1,30 @@
+T1	Organization 0 28	Position Description
+
+Serves
+T2	Organization 56 67	ProServices
+T3	Event 709 729	
+
+Job Requirements
+
+
+T4	Time 738 745	morning
+T5	Time 747 756	afternoon
+T6	Time 762 769	evening
+T7	Date 783 802	any day of the week
+T8	Date 1063 1069	1 year
+T9	Date 1118 1126	6 months
+T10	Person 1127 1131	Lowe
+T11	Date 1154 1160	1 year
+T12	Organization 1265 1268	MRO
+T13	Date 1473 1479	1 year
+T14	Organization 1564 1567	MRO
+T15	Date 1880 1886	1 year
+T16	Organization 1955 1968	Special Order
+T17	Date 1971 1978	2 years
+T18	Date 2060 2067	2 years
+T19	Date 2332 2339	2 years
+T20	Date 2431 2437	1 year
+T21	Date 2575 2582	2 years
+T22	Date 2830 2837	2 years
+T23	Date 2899 2906	2 years
+T24	Person 2947 2951	Lowe

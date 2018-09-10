@@ -1,0 +1,28 @@
+T1	Time 439 446	morning
+T2	Time 448 457	afternoon
+T3	Time 462 469	evening
+T4	Time 487 490	day
+T5	Time 536 543	morning
+T6	Time 545 554	afternoon
+T7	Time 560 567	evening
+T8	Date 584 608	Friday, Saturday, Sunday
+T9	Time 648 655	morning
+T10	Time 660 669	afternoon
+T11	Date 683 689	Monday
+T12	Date 698 704	Friday
+T13	Time 705 726	during peak day hours
+T14	Number 953 954	6
+T15	Duration 955 961	months
+T16	Number 1062 1063	6
+T17	Duration 1064 1070	months
+T18	Organization 1127 1130	LRT
+T19	Number 1464 1465	1
+T20	Duration 1466 1470	year
+T21	Number 1660 1661	1
+T22	Duration 1662 1666	year
+T23	Number 1928 1929	1
+T24	Duration 1930 1934	year
+T25	Number 2032 2033	1
+T26	Duration 2034 2038	year
+T27	Person 2081 2085	Lowe
+T28	Person 2103 2107	Lowe

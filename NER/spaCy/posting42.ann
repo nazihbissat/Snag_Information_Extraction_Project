@@ -1,0 +1,35 @@
+T1	Organization 141 142	&
+T2	Event 251 269	The Current Series
+T3	Event 514 532	The Current Series
+T4	Person 676 686	
+
+Creative
+T5	Percent 688 691	60%
+T6	Organization 710 733	the Executive in Charge
+T7	Job_Title_or_Degree 760 777	
+  - Participates
+T8	Organization 825 828	
+  
+T9	Person 908 914	Builds
+T10	Organization 1235 1248	Digital Media
+T11	Organization 1397 1400	EIC
+T12	Percent 1558 1561	40%
+T13	Organization 1603 1615	Coordinators
+T14	Date 1662 1668	weekly
+T15	Cardinal 1678 1681	one
+T16	Organization 1764 1771	
+  - Co
+T17	Organization 1817 1820	
+  
+T18	Organization 2070 2083	
+  - Required
+T19	Organization 2102 2113	Google Mail
+T20	Organization 2115 2131	Microsoft Office
+T21	Organization 2133 2143	PowerPoint
+T22	Location_Geo-Political_Area 2151 2158	Keynote
+T23	Location_Geo-Political_Area 2160 2169	Photoshop
+T24	Organization 2218 2260	
+
+Desired Characteristics
+
+  - Comfortable

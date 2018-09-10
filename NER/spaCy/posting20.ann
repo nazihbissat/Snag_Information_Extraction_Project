@@ -1,0 +1,37 @@
+T1	Date 22 36	over a century
+T2	Organization 38 57	Neiman Marcus Group
+T3	Organization 352 371	Neiman Marcus Group
+T4	Organization 392 415	Specialty Retail Stores
+T5	Organization 441 454	Neiman Marcus
+T6	Person 459 475	Bergdorf Goodman
+T7	Organization 637 648	The Company
+T8	Cardinal 658 667	more than
+T9	Location_Geo-Political_Area 738 755	the United States
+T10	Location_Geo-Political_Area 767 771	U.S.
+T11	Cardinal 849 850	2
+T12	Person 851 867	Bergdorf Goodman
+T13	Facility 900 912	Fifth Avenue
+T14	Location_Geo-Political_Area 916 929	New York City
+T15	Cardinal 947 959	more than 40
+T16	Person 973 986	Neiman Marcus
+T17	Product 1077 1086	eCommerce
+T18	Organization 1128 1144	NeimanMarcus.com
+T19	Organization 1146 1177	BergdorfGoodman.com Horchow.com
+T20	Organization 1179 1191	LastCall.com
+T21	Organization 1197 1205	CUSP.com
+T22	Date 1207 1216	Every day
+T23	Cardinal 1229 1235	15,000
+T24	Organization 1236 1239	NMG
+T25	Money 1551 1562	DESCRIPTION
+T26	Organization 1637 1649	
+  - Exceeds
+T27	Organization 1720 1723	
+  
+T28	Organization 2124 2127	
+  
+T29	Organization 2276 2284	InCircle
+T30	Organization 2292 2302	
+  - Works
+T31	Organization 2467 2470	
+  
+T32	Organization 2556 2570	QUALIFICATIONS

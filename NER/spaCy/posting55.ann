@@ -1,0 +1,55 @@
+T1	Organization 902 905	SOP
+T2	Product 962 983	Role Responsibilities
+T3	Product 989 996	Develop
+T4	Person 1126 1133	Develop
+T5	Organization 1528 1531	NMR
+T6	Organization 1630 1642	
+  - Analyze
+T7	Person 1802 1814	
+  - Develop
+T8	Organization 1888 1902	
+  - Knowledge
+T9	Organization 1974 1977	CMC
+T10	Organization 2017 2023	Pfizer
+T11	Organization 2145 2159	Qualifications
+T12	Organization 2186 2198	Biochemistry
+T13	Date 2204 2213	0-2 years
+T14	Nationality_or_Religion_or_Political_group 2258 2275	Biopharmaceutical
+T15	Person 2279 2286	Vaccine
+T16	Organization 2331 2343	Biochemistry
+T17	Cardinal 2349 2357	5-7years
+T18	Organization 2389 2414	Biopharmaceutical/Vaccine
+T19	Organization 2435 2450	
+  - Proficient
+T20	Organization 2531 2546	
+  - Proficient
+T21	Organization 2939 2955	
+  - Experienced
+T22	Organization 3059 3062	
+  
+T23	Organization 3183 3186	NMR
+T24	Organization 3225 3229	HPLC
+T25	Organization 3337 3340	CMC
+T26	Organization 3438 3477	
+
+PHYSICAL/MENTAL REQUIREMENTS
+
+Ability
+T27	Organization 3556 3594	
+
+EEO & Employment Eligibility
+
+Pfizer
+T28	Person 3864 3870	Pfizer
+T29	Law 4064 4099	the Immigration and Nationality Act
+T30	Organization 4104 4108	IRCA
+T31	Organization 4110 4116	Pfizer
+T32	Person 4155 4163	
+
+Pfizer
+T33	Organization 4351 4357	Pfizer
+T34	Organization 4617 4623	Pfizer
+T35	Law 4803 4819	the Sunshine Act
+T36	Person 4928 4934	Pfizer
+T37	Organization 5142 5160	Talent Acquisition
+T38	Person 5178 5184	Pfizer

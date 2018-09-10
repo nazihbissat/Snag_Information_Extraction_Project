@@ -1,0 +1,16 @@
+T1	Organization 84 98	include:||Pull
+T2	Person 266 285	
+
+Responsable de la
+T3	Organization 597 612	Skills
+
+Ability
+T4	Person 703 719	correspondence||
+T5	Cardinal 763 766	one
+T6	Location_Geo-Political_Area 776 785	Capacidad
+T7	Organization 1029 1032	GED
+T8	Date 1038 1051	1 to 3 months
+T9	Person 1161 1171	Diploma de
+T10	Organization 1221 1224	GED
+T11	Cardinal 1229 1230	1
+T12	Cardinal 1233 1234	3

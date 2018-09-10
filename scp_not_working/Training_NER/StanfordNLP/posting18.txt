@@ -1,0 +1,7 @@
+Job Profile.
+
+ Provides business and technical expertise for the analytics process, tools and applications for a business function or business unit.
+ Recommending appropriate performance measures to be produced including lifts, efficiencies, confidence intervals, and other statistical metrics.
+ Analyzing and processing data, building and maintaining models and report templates, and developing dynamic, data-driven solutions.
+ Providing business clients with detailed, actionable reports documenting the findings from, data processing, and data analysis.
+ Consulting on using business intelligence data for predictive analytics and facilitating implementation of new tools and data marts.

@@ -1,0 +1,15 @@
+T1	Organization 390 418	Department of Transportation
+T2	Organization 493 496	CDL
+T3	Time 570 577	morning
+T4	Time 579 588	afternoon
+T5	Time 594 601	evening
+T6	Time 619 622	day
+T7	Duration 1003 1010	21 year
+T8	Duration 1046 1054	3 months
+T9	Number 1131 1132	1
+T10	Duration 1133 1137	year
+T11	Location: State or Province 1178 1180	OR
+T12	Number 1219 1220	6
+T13	Duration 1221 1227	months
+T14	Location: State or Province 1267 1269	OR
+T15	Person 1296 1300	Lowe

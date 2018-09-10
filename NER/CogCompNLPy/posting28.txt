@@ -1,0 +1,26 @@
+The Software Engineer III creates and designs new software, applying theoretical principles of computing and mathematics in order to analyze, test and assess software systems. The Software Engineer III evaluates user needs while designing and testing new software to meet those needs. This may involve analyzing and developing flow charts, models, diagrams and algorithms in addition to coding or modifying software. This position researches and develops new technologies and processes/algorithms, and introduces them to the enterprise as needed to improve revenue and customer satisfaction.
+
+Job Duties/Responsibilities:
+
+  - Keeps abreast of new technology patterns and trends. Leads the evolution of standards and technology (tools, conventions and design patterns)
+  - Leads and reviews the design of applications and new technology
+  - Leads analysis, design and development of software with small technical team
+  - Influences the discovery and decision-making process when changes to standards and technology are required (tools, conventions and design patterns).
+  - Independently develops and implements software for ecommerce applications and related technology, with minimum oversight
+  - Leads code reviews to ensure functional performance specifications are met and engineering standards are followed.
+  - Mentors Software Engineer I & II
+  - Creates self-documenting designs and/or clearly communicates intent via comments in code, on specifications, in as-built documentation and during code reviews.
+  - Writes unit and integration tests for each deliverable, effectively and comprehensively exercising the code; prevents the introduction of subsequent bugs, and corrects existing bugs or design issues when discovered.
+
+Job Requirements:
+
+  - Bachelor's Degree in Computer Science, a related technical or scientific field, or equivalent experience
+  - Strong knowledge of OO design including extensive utilization of design patterns.
+  - Ability to mentor and recruit junior developers & enforce good development practices like encapsulation, composition, continuous integration & test driven development.
+  - Familiarity with continuous integration and build tools
+  - Participation through completion of multiple releases of a complex software project
+  - Analysis, design, coding and implementation of large-scale applications.
+  - Solid knowledge of algorithms, data structures and complexity theory
+  - Ability to effectively write so requirements are clear and readily understood.
+
+EEO EMPLOYER

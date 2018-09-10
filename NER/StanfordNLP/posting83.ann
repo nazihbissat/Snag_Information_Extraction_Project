@@ -1,0 +1,18 @@
+T1	Title 33 40	General
+T2	Person 99 106	Stocker
+T3	Person 264 271	Stocker
+T4	Person 499 506	Stocker
+T5	Criminal Charge 629 634	theft
+T6	Person 675 682	Stocker
+T7	Time 768 780	late evening
+T8	Time 804 811	morning
+T9	Time 829 832	day
+T10	Organization 899 918	Staffing Department
+T11	Time 1037 1040	day
+T12	Title 1087 1097	supervisor
+T13	Duration 1150 1152	39
+T14	Duration 1156 1158	40
+T15	Duration 1162 1164	10
+T16	Duration 1169 1177	25 hours
+T17	Title 1305 1312	Manager
+T18	Person 1357 1361	Lowe

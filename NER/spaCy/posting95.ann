@@ -1,0 +1,34 @@
+T1	Cardinal 47 55	7-Eleven
+T2	Cardinal 401 402	1
+T3	Cardinal 435 436	2
+T4	Cardinal 451 452	3
+T5	Organization 1156 1203	the Emergency Response and Reporting Procedures
+T6	Person 1208 1221	Policy Manual
+T7	Person 1973 1981	Prepares
+T8	Organization 2063 2071	Facility
+T9	Person 2085 2094	Maintains
+T10	Nationality_or_Religion_or_Political_group 2551 2558	Assists
+T11	Organization 3073 3076	GED
+T12	Person 3131 3140	Maintains
+T13	Location_Geo-Political_Area 3245 3262	the United States
+T14	Organization 3279 3299	Skills
+
+Demonstrates
+T15	Organization 3778 3796	Physical Functions
+T16	Quantity 3904 3913	50 pounds
+T17	Quantity 3946 3955	60 pounds
+T18	Quantity 4100 4110	128 pounds
+T19	Time 4194 4208	up to one hour
+T20	Date 4229 4232	May
+T21	Date 4417 4424	all day
+T22	Time 4520 4536	up to four hours
+T23	Organization 4554 4572	Working Conditions
+T24	Percent 4596 4613	approximately 95%
+T25	Organization 4798 4803	Tools
+T26	Organization 4809 4832	Materials
+
+  - Employee
+T27	Time 5131 5136	hours
+T28	Time 5224 5229	hours
+T29	Time 5283 5291	24 hours
+T30	Date 5299 5305	7 days

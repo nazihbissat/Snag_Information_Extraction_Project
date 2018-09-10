@@ -1,0 +1,62 @@
+T1	Organization 44 67	the Clinical Operations
+T2	Organization 158 197	Ambulatory Pharmaceutical Care Services
+T3	Organization 223 230	Federal
+T4	Organization 235 240	State
+T5	Organization 386 417	Assists the Clinical Operations
+T6	Person 548 560	
+
+Supervises
+T7	Nationality_or_Religion_or_Political_group 636 644	Provides
+T8	Organization 673 712	Ambulatory Pharmaceutical Care Services
+T9	Organization 930 953	the Clinical Operations
+T10	Organization 1049 1088	Ambulatory Pharmaceutical Care Services
+T11	Location_Geo-Political_Area 1102 1109	Assists
+T12	Location_Geo-Political_Area 1153 1163	California
+T13	Organization 1351 1374	the Clinical Operations
+T14	Organization 1626 1631	State
+T15	Organization 1882 1925	the Ambulatory Pharmaceutical Care Services
+T16	Organization 1947 1949	KP
+T17	Nationality_or_Religion_or_Political_group 1975 1983	Provides
+T18	Location_Geo-Political_Area 2036 2053	Kaiser Permanente
+T19	Person 2130 2147	Kaiser Permanente
+T20	Cardinal 2399 2402	Two
+T21	Date 2404 2412	2) years
+T22	Organization 2521 2541	Clinical Pharmacy OR
+T23	Date 2542 2555	two (2) years
+T24	Organization 2612 2617	Pharm
+T25	Nationality_or_Religion_or_Political_group 2619 2621	D.
+T26	Cardinal 2660 2672	at least two
+T27	Date 2674 2682	2) years
+T28	Product 2738 2776	Certification, Registration
+
+Licensure
+T29	Location_Geo-Political_Area 2796 2806	California
+T30	Organization 2821 2849	National Provider Identifier
+T31	Organization 2851 2854	NPI
+T32	Organization 2870 2873	NPI
+T33	Organization 3533 3561	Labor/Management Partnership
+T34	Organization 3601 3624	
+
+N/A
+
+Primary Location
+T35	Location_Geo-Political_Area 3626 3636	California
+T36	Location_Geo-Political_Area 3637 3647	Sacramento
+T37	Location_Geo-Political_Area 3648 3658	Sacramento
+T38	Person 3676 3684	Arden Wy
+T39	Facility 3686 3708	Scheduled Weekly Hours
+T40	Cardinal 3710 3712	40
+T41	Person 3720 3732	Day Workdays
+T42	Date 3734 3751	Sunday - Saturday
+T43	Organization 3778 3798	Working Hours Start:
+T44	Event 3816 3833	Working Hours End
+T45	Organization 3886 3911	Standard Employee Status:
+T46	Organization 3912 3952	Regular Employee Group/Union Affiliation
+T47	Organization 3964 3973	Non-Union
+T48	Location_Geo-Political_Area 3975 3991	Exempt Job Level
+T49	Organization 3993 4028	Team Leader/Supervisor Job Category
+T50	Person 4030 4048	Pharmacy Specialty
+T51	Organization 4050 4071	Management Department
+T52	Organization 4073 4103	Sacramento Drug Use Management
+T53	Location_Geo-Political_Area 4862 4875	San Francisco
+T54	Organization 4880 4914	Los Angeles Fair Chance Ordinances

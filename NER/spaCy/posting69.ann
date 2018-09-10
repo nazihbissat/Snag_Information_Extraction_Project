@@ -1,0 +1,49 @@
+T1	Organization 27 53	Equal Opportunity Employer
+T2	Person 333 344	Salesperson
+T3	Location_Geo-Political_Area 347 352	Entry
+T4	Organization 400 403	DIY
+T5	Organization 776 779	MVR
+T6	Organization 872 875	DIY
+T7	Organization 907 910	
+  
+T8	Organization 978 994	
+  - Provide DIY
+T9	Job_Title_or_Degree 1445 1462	
+
+Success Factors
+T10	Organization 1504 1516	
+  - Ability
+T11	Organization 1545 1558	
+  - Friendly
+T12	Organization 1572 1584	
+  - Ability
+T13	Organization 1610 1621	
+  - Safety
+T14	Organization 1642 1645	
+  
+T15	Organization 1694 1704	
+  - Parts
+T16	Organization 1743 1746	
+  
+T17	Organization 1786 1797	
+  - Expert
+T18	Organization 1838 1841	DIY
+T19	Organization 1886 1893	Success
+T20	Person 1899 1910	Salesperson
+T21	Language 1932 1939	English
+T22	Language 1941 1948	Spanish
+T23	Organization 2426 2430	Sets
+T24	Product 2452 2461	Success
+
+
+T25	Date 2461 2470	2-3 years
+T26	Date 2574 2576	
+
+
+T27	Organization 2636 2639	GED
+T28	Person 2640 2654	
+
+Certificates
+T29	Person 2656 2664	Licenses
+T30	Quantity 3248 3263	up to 50 pounds
+T31	Quantity 3298 3314	up to 100 pounds

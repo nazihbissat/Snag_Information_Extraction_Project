@@ -1,0 +1,20 @@
+T1	Organization 390 418	Department of Transportation
+T2	Organization 420 423	DOT
+T3	Person 438 444	Hazmat
+T4	Organization 485 488	DOT
+T5	Organization 493 496	CDL
+T6	Event 541 561	
+
+Job Requirements
+
+
+T7	Time 570 577	morning
+T8	Time 579 588	afternoon
+T9	Time 594 601	evening
+T10	Date 615 634	any day of the week
+T11	Date 1003 1017	21 year of age
+T12	Date 1046 1054	3 months
+T13	Location_Geo-Political_Area 1090 1097	Moffett
+T14	Date 1131 1137	1 year
+T15	Date 1219 1227	6 months
+T16	Person 1296 1300	Lowe

@@ -1,0 +1,47 @@
+T1	Location_Geo-Political_Area 41 46	Entry
+T2	Organization 94 97	DIY
+T3	Organization 470 473	MVR
+T4	Organization 566 569	DIY
+T5	Organization 601 604	
+  
+T6	Organization 672 688	
+  - Provide DIY
+T7	Job_Title_or_Degree 1139 1156	
+
+Success Factors
+T8	Organization 1198 1210	
+  - Ability
+T9	Organization 1239 1252	
+  - Friendly
+T10	Organization 1266 1278	
+  - Ability
+T11	Organization 1304 1315	
+  - Safety
+T12	Organization 1336 1339	
+  
+T13	Organization 1388 1398	
+  - Parts
+T14	Organization 1437 1440	
+  
+T15	Organization 1480 1491	
+  - Expert
+T16	Organization 1532 1535	DIY
+T17	Organization 1580 1587	Success
+T18	Person 1593 1604	Salesperson
+T19	Language 1626 1633	English
+T20	Language 1635 1642	Spanish
+T21	Organization 2120 2124	Sets
+T22	Product 2146 2155	Success
+
+
+T23	Date 2155 2164	2-3 years
+T24	Date 2268 2270	
+
+
+T25	Organization 2330 2333	GED
+T26	Person 2334 2348	
+
+Certificates
+T27	Person 2350 2358	Licenses
+T28	Quantity 2942 2957	up to 50 pounds
+T29	Quantity 2992 3008	up to 100 pounds

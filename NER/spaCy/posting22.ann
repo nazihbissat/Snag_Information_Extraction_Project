@@ -1,0 +1,62 @@
+T1	Organization 13 38	The Registered Nurse (RN)
+T2	Organization 351 354	MSE
+T3	Organization 418 468	Standardized Procedure & State/Federal regulations
+T4	Organization 494 503	Emergency
+T5	Date 522 530	all ages
+T6	Organization 661 662	&
+T7	Organization 720 729	Completes
+T8	Organization 898 904	EMTALA
+T9	Organization 1310 1337	Medication administration &
+T10	Person 1487 1496	Maintains
+T11	Nationality_or_Religion_or_Political_group 2404 2416	Demonstrates
+T12	Organization 2762 2781	& interdepartmental
+T13	Person 2782 2805	Performance Improvement
+T14	Organization 3338 3341	LVN
+T15	Person 3345 3359	ED Technicians
+T16	Date 3469 3477	One year
+T17	Date 3496 3516	the last three years
+T18	Organization 3532 3550	a Registered Nurse
+T19	Organization 3554 3578	the Emergency Department
+T20	Organization 3601 3604	GED
+T21	Time 3676 3693	the current hours
+T22	Organization 3706 3719	the BRN of RN
+T23	Organization 3748 3759	OR Graduate
+T24	Time 3800 3813	1) 2000 hours
+T25	Organization 3817 3819	RN
+T26	Cardinal 3904 3909	three
+T27	Date 3911 3919	3) years
+T28	Cardinal 3938 3939	2
+T29	Time 4072 4082	2000 hours
+T30	Cardinal 4159 4164	three
+T31	Date 4166 4174	3) years
+T32	Organization 4244 4247	MSN
+T33	Organization 4400 4434	the KP Emergency Nursing Course w/
+T34	Organization 4532 4550	a Registered Nurse
+T35	Location_Geo-Political_Area 4554 4564	California
+T36	Organization 4642 4653	ACLS & PALS
+T37	Date 4684 4702	six months of date
+T38	Organization 4716 4718	ED
+T39	Organization 4729 4733	TNCC
+T40	Date 4755 4771	one year of date
+T41	Organization 4785 4787	ED
+T42	Organization 4825 4829	TNCC
+T43	Organization 4833 4836	NRP
+T44	Facility 4908 4910	RN
+T45	Organization 4931 4943	Demonstrated
+T46	Language 5071 5078	English
+T47	Product 5124 5147	Position Specifications
+T48	Person 5210 5226	Primary Location
+T49	Location_Geo-Political_Area 5228 5238	California
+T50	Location_Geo-Political_Area 5239 5245	Fresno
+T51	Organization 5246 5271	Fresno Hospital Ancillary
+T52	Organization 5274 5287	Yosemite 7300
+T53	Person 5288 5319	N. Fresn Scheduled Weekly Hours
+T54	Cardinal 5321 5322	0
+T55	Person 5330 5346	Evening Workdays
+T56	Person 5452 5476	Standard Employee Status
+T57	Organization 5478 5518	Regular Employee Group/Union Affiliation
+T58	Organization 5520 5559	California Nurses Association Job Level
+T59	Organization 5561 5597	Individual Contributor Job Category:
+T60	Person 5606 5624	Licensed Specialty
+T61	Location_Geo-Political_Area 6417 6430	San Francisco
+T62	Organization 6435 6469	Los Angeles Fair Chance Ordinances

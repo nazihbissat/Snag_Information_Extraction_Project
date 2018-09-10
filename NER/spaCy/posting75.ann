@@ -1,0 +1,72 @@
+T1	Date 8 14	148606
+T2	Organization 35 37	TX
+T3	Date 49 53	0084
+T4	Person 54 63	
+
+Address
+T5	Date 65 69	1201
+T6	Event 70 88	Lake Woodlands Dr.
+T7	Location_Geo-Political_Area 94 103	Woodlands
+T8	Organization 105 107	TX
+T9	Product 108 113	77380
+T10	Location_Geo-Political_Area 115 128	United States
+T11	Location_Geo-Political_Area 130 132	US
+T12	Job_Title_or_Degree 133 162	
+
+Hourly/Salaried: Salaried (
+T13	Person 162 168	Exempt
+T14	Person 224 231	Sephora
+T15	Nationality_or_Religion_or_Political_group 434 445	Specialists
+T16	Person 451 468	District Managers
+T17	Person 554 561	Sephora
+T18	Organization 569 579	Specialist
+T19	Organization 804 809	Store
+T20	Location_Geo-Political_Area 969 975	Charge
+T21	Organization 1108 1120	
+  - Monitor
+T22	Date 1121 1126	daily
+T23	Date 1128 1134	weekly
+T24	Date 1140 1147	monthly
+T25	Organization 1228 1241	
+  - Maintain
+T26	Organization 1490 1502	
+  - Recruit
+T27	Organization 1571 1583	
+  - Conduct
+T28	Organization 1624 1627	
+  
+T29	Person 1645 1652	Sephora
+T30	Organization 1663 1731	Passion for Client Service, Innovation, Expertise, Work-Life Balance
+T31	Organization 1750 1758	Teamwork
+T32	Product 1760 1774	& Initiative
+
+
+T33	Date 1939 1944	years
+T34	Time 2053 2058	hours
+T35	Time 2067 2073	nights
+T36	Date 2087 2095	weekends
+T37	Organization 2109 2126	
+  - Demonstrated
+T38	Organization 2508 2511	
+  
+T39	Person 2720 2727	Sephora
+T40	Person 2749 2756	Sephora
+T41	Person 2943 2950	Sephora
+T42	Date 2988 2992	401k
+T43	Organization 3141 3144	
+  
+T44	Organization 3150 3154	LVMH
+T45	Person 3163 3170	Sephora
+T46	Organization 3189 3193	LVMH
+T47	Cardinal 3271 3273	70
+T48	Person 3298 3311	Louis Vuitton
+T49	Person 3321 3333	Moet Chandon
+T50	Person 3335 3346	Marc Jacobs
+T51	Organization 3348 3352	Dior
+T52	Quantity 3456 3465	50 pounds
+T53	Person 3589 3596	Sephora
+T54	Person 3636 3661	Sephora Employee Handbook
+T55	Organization 3685 3705	Houston
+
+Job Segment
+T56	Organization 3707 3746	Telecom, Telecommunications, Technology

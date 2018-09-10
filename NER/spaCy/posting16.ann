@@ -1,0 +1,43 @@
+T1	Location_Geo-Political_Area 0 11	The DC Area
+T2	Organization 78 101	the Distribution Center
+T3	Organization 229 242	
+  - Monitors
+T4	Organization 431 446	
+  - Determines
+T5	Organization 634 637	
+  
+T6	Organization 747 760	
+  - Supports
+T7	Organization 785 789	OSHA
+T8	Organization 853 866	
+  - Performs
+T9	Event 1075 1093	
+
+Job Requirements
+T10	Organization 1232 1235	
+  
+T11	Organization 1336 1348	
+  - Ability
+T12	Organization 1467 1479	
+  - Ability
+T13	Date 1530 1538	weekends
+T14	Organization 1623 1637	
+  - Excellent
+T15	Job_Title_or_Degree 1746 1788	
+
+Preferred Skills:
+
+  - Associates Degree
+T16	Organization 1801 1858	Operations Management, Business Administration, Logistics
+T17	Organization 1863 1889	Transportation
+  - Working
+T18	Organization 1903 1920	Lean Principles
+
+
+T19	Date 1998 2024	3-4 Years
+
+Age Requirement
+T20	Money 2026 2029	18+
+T21	Organization 2029 2076	
+
+Equal Opportunity Employer / Disability / Vet

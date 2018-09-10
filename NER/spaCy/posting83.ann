@@ -1,0 +1,29 @@
+T1	Organization 0 20	Receiving / Stocking
+T2	Organization 30 62	F
+
+General Description/Purpose
+
+
+T3	Organization 86 106	the Receiver Stocker
+T4	Person 251 271	The Receiver Stocker
+T5	Organization 335 337	
+
+
+T6	Organization 463 465	
+
+
+T7	Person 486 506	The Receiver Stocker
+T8	Organization 598 600	
+
+
+T9	Organization 662 682	the Receiver Stocker
+T10	Time 768 780	late evening
+T11	Time 782 787	night
+T12	Time 798 811	early morning
+T13	Date 825 844	any day of the week
+T14	Organization 899 918	Staffing Department
+T15	Date 1150 1152	39
+T16	Cardinal 1156 1164	40 or 10
+T17	Time 1169 1177	25 hours
+T18	Time 1202 1212	more hours
+T19	Person 1357 1361	Lowe

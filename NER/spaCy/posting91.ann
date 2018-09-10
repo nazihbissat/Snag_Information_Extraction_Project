@@ -1,0 +1,30 @@
+T1	Date 234 236	
+
+
+T2	Organization 303 305	
+
+
+T3	Time 355 364	
+
+morning
+T4	Time 364 375	, afternoon
+T5	Time 377 388	and evening
+T6	Date 649 657	6 months
+T7	Date 758 767	6
+
+months
+T8	Organization 824 827	LRT
+T9	Organization 854 858	iPod
+T10	Date 929 937	6 months
+T11	Date 958 966	6 months
+T12	Person 983 989	Loader
+T13	Date 1040 1048	6 months
+T14	Person 1091 1095	Lowe
+T15	Date 1113 1122	6
+
+months
+T16	Product 1177 1191	Zone
+
+Recovery
+T17	Date 1292 1300	6 months
+T18	Person 1417 1421	Lowe

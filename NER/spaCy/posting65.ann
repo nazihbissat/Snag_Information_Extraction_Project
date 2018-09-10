@@ -1,0 +1,21 @@
+T1	Facility 63 71	7-Eleven
+T2	Cardinal 108 116	7-Eleven
+T3	Cardinal 181 189	7-Eleven
+T4	Organization 574 599	Retail Information System
+T5	Cardinal 809 817	7-Eleven
+T6	Organization 1211 1223	
+  - Receive
+T7	Organization 1267 1270	
+  
+T8	Organization 1364 1377	
+  - Forecast
+T9	Organization 1570 1573	
+  
+T10	Organization 1655 1666	
+  - Desire
+T11	Organization 1706 1754	
+
+Physical Requirements
+
+  - The Sales Associate
+T12	Quantity 1939 1953	20 - 50 pounds

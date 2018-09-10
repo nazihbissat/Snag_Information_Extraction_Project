@@ -1,0 +1,32 @@
+T1	Nationality_or_Religion_or_Political_group 89 98	Physician
+T2	Nationality_or_Religion_or_Political_group 139 149	Interviews
+T3	Nationality_or_Religion_or_Political_group 348 355	Assists
+T4	Product 556 565	Schedules
+T5	Date 664 667	May
+T6	Date 737 740	May
+T7	Organization 1021 1039	the Medical Center
+T8	Person 1279 1290	Facilitates
+T9	Cardinal 1956 1959	six
+T10	Date 1961 1970	6) months
+T11	Organization 2013 2030	Kaiser Externship
+T12	Organization 2056 2059	GED
+T13	Organization 2131 2149	Medical Assistants
+T14	Organization 2166 2197	the Medical Board of California
+T15	Organization 2200 2203	BLS
+T16	Organization 2476 2504	Labor Management Partnership
+T17	Organization 2528 2551	Position Specifications
+T18	Location_Geo-Political_Area 2632 2642	California
+T19	Location_Geo-Political_Area 2643 2650	Fremont
+T20	Location_Geo-Political_Area 2651 2658	Fremont
+T21	Organization 2659 2685	Niles West Medical Offices
+T22	Organization 2692 2724	Paseo Pad Scheduled Weekly Hours
+T23	Cardinal 2726 2727	0
+T24	Person 2735 2747	Day Workdays
+T25	Person 2853 2877	Standard Employee Status
+T26	Organization 2879 2919	Regular Employee Group/Union Affiliation
+T27	Organization 2921 2963	United Healthcare Workers - West Job Level
+T28	Organization 2965 3012	Entry Level Job Category: Patient Care Services
+T29	Organization 3014 3021	Non RN)
+T30	Organization 3034 3072	Medical Office Support Services Travel
+T31	Location_Geo-Political_Area 3821 3834	San Francisco
+T32	Organization 3839 3873	Los Angeles Fair Chance Ordinances

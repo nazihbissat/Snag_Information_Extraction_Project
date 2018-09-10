@@ -1,0 +1,22 @@
+T1	Location_Geo-Political_Area 271 276	Build
+T2	Organization 366 369	
+  
+T3	Organization 424 427	
+  
+T4	Person 429 434	Keeps
+T5	Person 477 483	
+
+Esta
+T6	Person 817 837	Required Skills
+
+  -
+T7	Cardinal 1074 1077	one
+T8	Cardinal 1081 1084	two
+T9	Location_Geo-Political_Area 1102 1113	
+
+Capacidad
+T10	Date 1350 1363	1 to 3 months
+T11	Organization 1512 1514	Un
+T12	Organization 1570 1573	GED
+T13	Cardinal 1578 1579	1
+T14	Cardinal 1582 1583	3

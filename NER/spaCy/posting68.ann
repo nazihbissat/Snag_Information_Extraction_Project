@@ -1,0 +1,25 @@
+T1	Person 8 21	
+
+Contributes
+T2	Date 965 967	
+
+
+T3	Organization 1049 1054	Brand
+T4	Location_Geo-Political_Area 1231 1236	Brand
+T5	Person 1618 1625	Cashier
+T6	Organization 1732 1736	Uses
+T7	Product 1976 1985	Stockroom
+T8	Organization 2128 2132	Uses
+T9	Person 2426 2438	Capabilities
+T10	Organization 2540 2554	
+  - Knowledge
+T11	Language 3016 3023	English
+T12	Nationality_or_Religion_or_Political_group 3628 3636	Brannock
+T13	Quantity 3695 3710	up to 25 pounds
+T14	Quantity 3745 3760	up to 50 pounds
+T15	Organization 4012 4015	GED
+T16	Person 4016 4019	
+  
+T17	Date 4021 4041	Three to six month's
+T18	Date 4206 4214	16 years
+T19	Organization 4545 4571	Equal Opportunity Employer

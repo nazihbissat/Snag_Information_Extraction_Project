@@ -1,0 +1,20 @@
+T1	Person 196 200	Earn
+T2	Date 223 229	weekly
+T3	Date 236 243	Sundays
+T4	Time 261 266	hours
+T5	Person 590 599	Instacart
+T6	Organization 602 614	InstaShopper
+T7	Time 666 671	hours
+T8	Date 744 754	every week
+T9	Cardinal 836 838	18
+T10	Date 840 845	years
+T11	Location_Geo-Political_Area 876 878	US
+T12	Person 945 957	Android 4.0+
+T13	Cardinal 977 982	30-40
+T14	Organization 1463 1472	Uber Eats
+T15	Date 1591 1600	, weekend
+T16	Date 1602 1609	weekday
+T17	Location_Geo-Political_Area 1958 1960	SF
+T18	Organization 2048 2076	the SF Fair Chance Ordinance
+T19	Time 2087 2102	under 5 minutes
+T20	Date 2154 2162	one week

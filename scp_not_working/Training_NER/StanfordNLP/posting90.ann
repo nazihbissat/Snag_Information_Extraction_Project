@@ -1,0 +1,24 @@
+T1	Organization 346 361	CSA ProServices
+T2	Time 597 604	morning
+T3	Time 606 615	afternoon
+T4	Time 620 627	evening
+T5	Time 645 648	day
+T6	Number 886 887	6
+T7	Duration 888 894	months
+T8	Number 995 996	6
+T9	Duration 997 1003	months
+T10	Organization 1060 1063	LRT
+T11	Number 1138 1139	6
+T12	Duration 1140 1146	months
+T13	Number 1459 1460	6
+T14	Duration 1461 1467	months
+T15	Number 2101 2102	1
+T16	Duration 2103 2107	year
+T17	Number 2297 2298	1
+T18	Duration 2299 2303	year
+T19	Number 2401 2402	1
+T20	Duration 2403 2407	year
+T21	Number 2545 2546	1
+T22	Duration 2547 2551	year
+T23	Person 2606 2610	Lowe
+T24	Person 2628 2632	Lowe

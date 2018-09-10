@@ -1,0 +1,28 @@
+T1	Title 31 38	Cashier
+T2	Time 382 389	morning
+T3	Time 391 400	afternoon
+T4	Time 406 413	evening
+T5	Time 431 434	day
+T6	Duration 671 679	6 months
+T7	Number 780 781	6
+T8	Duration 782 788	months
+T9	Title 831 837	mobile
+T10	Organization 845 848	LRT
+T11	Title 859 864	pilot
+T12	Number 1079 1080	1
+T13	Duration 1081 1085	year
+T14	Number 1106 1107	1
+T15	Duration 1108 1112	year
+T16	Title 1134 1141	cashier
+T17	Number 1144 1145	6
+T18	Duration 1146 1152	months
+T19	Person 1195 1199	Lowe
+T20	Number 1217 1218	1
+T21	Duration 1219 1223	year
+T22	Number 1341 1342	6
+T23	Duration 1343 1349	months
+T24	Criminal Charge 1394 1405	shoplifting
+T25	Number 1504 1505	1
+T26	Duration 1506 1510	year
+T27	Title 1534 1541	cashier
+T28	Person 1544 1548	Lowe

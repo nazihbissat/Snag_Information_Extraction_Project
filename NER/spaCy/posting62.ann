@@ -1,0 +1,92 @@
+T1	Organization 10 27	AA Headquarters 1
+T2	Organization 38 79	
+
+Additional Locations: None
+
+Requisition
+T3	Product 89 101	
+
+Overview
+
+
+T4	Organization 362 379	American Airlines
+T5	Organization 556 573	American Airlines
+T6	Organization 665 672	Company
+T7	Date 1254 1270	almost a century
+T8	Event 1375 1388	The Job
+
+This
+T9	Organization 1408 1439	the Information Technology Team
+T10	Organization 1448 1483	the Information Technology Division
+T11	Organization 1858 1861	
+  
+T12	Organization 1953 1956	LAN
+T13	Organization 2067 2070	
+  
+T14	Organization 2106 2119	
+  - Resolves
+T15	Organization 2194 2197	
+  
+T16	Person 2254 2278	Helpdesk
+  - Contributes
+T17	Person 2350 2363	
+  - Remotely
+T18	Organization 2418 2436	
+  - Troubleshoots
+T19	Organization 2521 2524	
+  
+T20	Organization 2684 2697	
+  - Supports
+T21	Organization 2807 2820	
+  - Installs
+T22	Organization 2868 2881	
+  - Performs
+T23	Organization 2906 2916	
+  - Works
+T24	Organization 2973 2976	
+  
+T25	Organization 3042 3055	
+  - Performs
+T26	Job_Title_or_Degree 3081 3194	
+
+Qualifications
+
+Required Qualifications
+
+  - Associate/Bachelor Degree in Computer Science, Information Systems
+T27	Person 3257 3260	
+  
+T28	Date 3262 3269	3 years
+T29	Ordinal 3403 3412	firsthand
+T30	Product 3458 3465	Windows
+T31	Product 3483 3531	
+
+Preferred Qualifications
+
+  - A+ certification
+T32	Organization 3531 3534	
+  
+T33	Organization 3541 3544	MCP
+T34	Organization 3600 3615	Airline/Airport
+T35	Product 3657 3664	Windows
+T36	Product 3699 3724	Windows 7
+  - Familiarity
+T37	Organization 3765 3779	
+  - Knowledge
+T38	Organization 3834 3846	
+  - Ability
+T39	Cardinal 3949 3960	at least 30
+T40	Organization 3964 4005	
+
+Additional Locations: None
+
+Requisition
+T41	Person 4015 4030	
+
+Nearest Major
+T42	Location_Geo-Political_Area 4039 4049	Fort Worth
+T43	Product 4051 4075	Nearest Secondary Market
+T44	Location_Geo-Political_Area 4077 4083	Dallas
+T45	Organization 4098 4118	Technician, Network,
+T46	Organization 4119 4156	Computer Science, Information Systems
+T47	Organization 4158 4177	Telecom, Technology

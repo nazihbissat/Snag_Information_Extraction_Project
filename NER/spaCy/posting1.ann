@@ -1,0 +1,27 @@
+T1	Organization 17 20	HUB
+T2	Organization 38 56	Advance Auto Parts
+T3	Organization 60 63	HUB
+T4	Person 64 76	Order Puller
+T5	Organization 114 117	HUB
+T6	Organization 401 411	Accurately
+T7	Organization 765 768	
+  	
+  	
+  	
+  
+T8	Organization 974 977	HUB
+T9	Product 978 990	Order Puller
+T10	Person 1364 1368	jack
+T11	Organization 1587 1590	
+  	
+  	
+  	
+  
+T12	Time 1712 1717	hours
+T13	Time 1728 1734	nights
+T14	Date 1739 1747	weekends
+T15	Organization 1806 1809	GED
+T16	Date 1825 1844	one to three months
+T17	Cardinal 2136 2139	one
+T18	Cardinal 2143 2146	one
+T19	Organization 2240 2252	MATHEMATICAL

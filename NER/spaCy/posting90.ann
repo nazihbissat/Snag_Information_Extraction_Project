@@ -1,0 +1,19 @@
+T1	Location_Geo-Political_Area 0 7	Summary
+T2	Nationality_or_Religion_or_Political_group 23 38	Lube Technician
+T3	Person 237 246	Functions
+T4	Ordinal 1001 1006	first
+T5	Person 1155 1163	Contains
+T6	Product 2173 2197	Supervisors
+
+  - Upholds
+T7	Person 2277 2286	Maintains
+T8	Job_Title_or_Degree 2747 2762	EEO Statement
+
+
+T9	Person 3126 3136	Req Number
+T10	Event 3138 3148	4766
+
+Type
+T11	Facility 3179 3183	Mall
+T12	Location_Geo-Political_Area 3187 3194	Georgia
+T13	Facility 3219 3231	Buford Drive

@@ -1,0 +1,68 @@
+T1	Date 55 59	0368
+T2	Date 60 62	
+
+
+T3	Cardinal 71 73	10
+T4	Location 74 95	Columbus Circle Space
+T5	Location_Geo-Political_Area 101 109	New York
+T6	Location_Geo-Political_Area 111 113	NY
+T7	Date 114 119	10019
+T8	Location_Geo-Political_Area 121 134	United States
+T9	Location_Geo-Political_Area 136 138	US
+T10	Job_Title_or_Degree 139 168	
+
+Hourly/Salaried: Salaried (
+T11	Person 168 174	Exempt
+T12	Person 230 237	Sephora
+T13	Nationality_or_Religion_or_Political_group 440 451	Specialists
+T14	Person 457 474	District Managers
+T15	Person 560 567	Sephora
+T16	Organization 575 585	Specialist
+T17	Organization 810 815	Store
+T18	Location_Geo-Political_Area 975 981	Charge
+T19	Organization 1114 1126	
+  - Monitor
+T20	Date 1127 1132	daily
+T21	Date 1134 1140	weekly
+T22	Date 1146 1153	monthly
+T23	Organization 1234 1247	
+  - Maintain
+T24	Organization 1496 1508	
+  - Recruit
+T25	Organization 1577 1589	
+  - Conduct
+T26	Organization 1630 1633	
+  
+T27	Person 1651 1658	Sephora
+T28	Organization 1669 1737	Passion for Client Service, Innovation, Expertise, Work-Life Balance
+T29	Organization 1756 1764	Teamwork
+T30	Product 1766 1780	& Initiative
+
+
+T31	Date 1945 1950	years
+T32	Time 2059 2064	hours
+T33	Time 2073 2079	nights
+T34	Date 2093 2101	weekends
+T35	Organization 2115 2132	
+  - Demonstrated
+T36	Organization 2514 2517	
+  
+T37	Person 2726 2733	Sephora
+T38	Person 2755 2762	Sephora
+T39	Person 2949 2956	Sephora
+T40	Date 2994 2998	401k
+T41	Organization 3147 3150	
+  
+T42	Organization 3156 3160	LVMH
+T43	Person 3169 3176	Sephora
+T44	Organization 3195 3199	LVMH
+T45	Cardinal 3277 3279	70
+T46	Person 3304 3317	Louis Vuitton
+T47	Person 3327 3339	Moet Chandon
+T48	Person 3341 3352	Marc Jacobs
+T49	Organization 3354 3358	Dior
+T50	Quantity 3462 3471	50 pounds
+T51	Person 3595 3602	Sephora
+T52	Person 3642 3667	Sephora Employee Handbook
+T53	Product 3702 3726	Nearest Secondary Market
+T54	Organization 3756 3795	Telecom, Telecommunications, Technology

@@ -1,0 +1,38 @@
+T1	Title 23 30	general
+T2	Title 68 75	Manager
+T3	Title 115 125	pharmacist
+T4	Organization 158 197	Ambulatory Pharmaceutical Care Services
+T5	Title 418 425	Manager
+T6	Title 954 961	Manager
+T7	Title 1031 1045	representative
+T8	Organization 1049 1088	Ambulatory Pharmaceutical Care Services
+T9	Location: State or Province 1153 1163	California
+T10	Miscellaneous 1355 1374	Clinical Operations
+T11	Title 1375 1382	Manager
+T12	Organization 1886 1925	Ambulatory Pharmaceutical Care Services
+T13	Person 2036 2053	Kaiser Permanente
+T14	Person 2130 2147	Kaiser Permanente
+T15	Number 2399 2402	Two
+T16	Number 2404 2405	2
+T17	Location: State or Province 2539 2541	OR
+T18	Number 2542 2545	two
+T19	Number 2547 2548	2
+T20	Location: State or Province 2622 2624	OR
+T21	Title 2625 2633	bachelor
+T22	Number 2669 2672	two
+T23	Number 2674 2675	2
+T24	Title 2782 2792	pharmacist
+T25	Location: State or Province 2796 2806	California
+T26	Organization 2851 2854	NPI
+T27	Organization 2870 2873	NPI
+T28	Location: State or Province 3626 3636	California
+T29	Location: City 3637 3647	Sacramento
+T30	Organization 3648 3664	Sacramento Arden
+T31	Number 3671 3675	3240
+T32	Number 3710 3712	40
+T33	Date 3734 3740	Sunday
+T34	Date 3743 3751	Saturday
+T35	Organization 4073 4103	Sacramento Drug Use Management
+T36	Number 4104 4106	01
+T37	Person 4119 4136	Kaiser Permanente
+T38	Location: City 4862 4875	San Francisco

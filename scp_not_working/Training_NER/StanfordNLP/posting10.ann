@@ -1,0 +1,16 @@
+T1	Time 334 341	morning
+T2	Time 343 352	afternoon
+T3	Time 358 365	evening
+T4	Time 383 386	day
+T5	Number 624 625	6
+T6	Duration 626 632	months
+T7	Number 733 734	6
+T8	Duration 735 741	months
+T9	Organization 798 801	LRT
+T10	Number 1033 1034	6
+T11	Duration 1035 1041	months
+T12	Number 1224 1225	6
+T13	Duration 1226 1232	months
+T14	Number 1253 1254	6
+T15	Duration 1255 1261	months
+T16	Person 1288 1292	Lowe

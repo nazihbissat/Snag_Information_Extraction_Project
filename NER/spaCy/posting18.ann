@@ -1,0 +1,40 @@
+T1	Organization 10 23	Sheetz Stores
+T2	Date 25 38	00205 - 15315
+T3	Location_Geo-Political_Area 39 49	Washington
+T4	Money 90 98	$10.00
+
+
+T5	Person 207 216	
+
+PRIMARY
+T6	Organization 344 373	Sheetz Convenience Restaurant
+T7	Organization 740 753	
+  - Complete
+T8	Organization 904 916	
+  - Receive
+T9	Organization 977 990	
+  - Maintain
+T10	Organization 1091 1101	
+  - Serve
+T11	Organization 1123 1150	the Sheetz Brand
+
+Education
+T12	Person 1276 1284	
+
+Skills
+T13	Organization 1351 1354	
+  
+T14	Organization 1458 1461	
+  
+T15	Organization 1479 1548	Sheetz Corporate Mission, Vision and Total Customer Focus
+  - Ethical
+T16	Organization 1620 1633	
+  - Flexible
+T17	Organization 1657 1669	
+  - Ability
+T18	Organization 1715 1718	
+  
+T19	Quantity 1822 1837	up to 50 pounds
+T20	Organization 1879 1905	Washington DC
+
+Job Segment

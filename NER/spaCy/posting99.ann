@@ -1,0 +1,25 @@
+T1	Organization 238 241	GED
+T2	Cardinal 326 329	one
+T3	Organization 393 407	
+  - Effective
+T4	Organization 501 513	
+  - Ability
+T5	Time 551 557	nights
+T6	Date 812 818	weekly
+T7	Organization 819 846	Merchandising and Marketing
+T8	Date 937 942	daily
+T9	Date 944 950	weekly
+T10	Date 955 962	monthly
+T11	Organization 997 1010	
+  - Executes
+T12	Organization 1116 1119	
+  
+T13	Nationality_or_Religion_or_Political_group 1182 1190	Suggests
+T14	Organization 1418 1431	
+  - Required
+T15	Person 1461 1469	
+
+Duties
+T16	Organization 1559 1587	
+
+Equal Opportunity Employer

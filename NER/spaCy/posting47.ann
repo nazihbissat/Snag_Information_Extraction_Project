@@ -1,0 +1,62 @@
+T1	Organization 10 83	Siemens Healthineers
+
+Business Unit: Human Resources
+
+Requisition Number:
+T2	Date 84 90	213495
+T3	Location_Geo-Political_Area 110 164	United States-Washington-Issaquah
+
+Assignment Category
+T4	Organization 215 241	
+
+Education Required Level
+T5	Person 243 251	Bachelor
+T6	Percent 279 282	25%
+T7	Organization 307 314	Siemens
+T8	Date 450 469	more than 165 years
+T9	Organization 503 510	Siemens
+T10	Organization 648 655	Company
+T11	Cardinal 672 676	nine
+T12	Organization 677 701	Divisions: Power and Gas
+T13	Organization 703 713	Wind Power
+T14	Organization 730 747	Energy Management
+T15	Organization 749 770	Building Technologies
+T16	Organization 772 780	Mobility
+T17	Organization 782 797	Digital Factory
+T18	Organization 799 817	Process Industries
+T19	Organization 830 865	Healthineers and Financial Services
+T20	Cardinal 873 879	45,000
+T21	Organization 890 910	Siemens Healthineers
+T22	Cardinal 914 917	one
+T23	Organization 1386 1403	
+
+Job Description
+T24	Organization 1431 1468	a Human Resources Business Consultant
+T25	Organization 1495 1507	Healthineers
+T26	Location_Geo-Political_Area 1543 1551	Issaquah
+T27	Organization 1553 1555	WA
+T28	Organization 1558 1588	The Human Resources Generalist
+T29	Organization 1624 1635	Transducers
+T30	Organization 1637 1640	PLM
+T31	Organization 1705 1735	The Human Resources Generalist
+T32	Organization 1837 1852	Human Resources
+T33	Cardinal 1918 1935	approximately 300
+T34	Person 2059 2065	Guides
+T35	Date 2077 2080	day
+T36	Person 2201 2207	Guides
+T37	Date 2651 2657	annual
+T38	Organization 2990 3002	
+  - Partner
+T39	Organization 3012 3020	Business
+T40	Organization 3295 3298	
+  
+T41	Organization 3353 3360	Siemens
+T42	Person 3564 3570	Guides
+T43	Location_Geo-Political_Area 3716 3718	HC
+T44	Percent 3817 3834	approximately 25%
+T45	Organization 3969 3982	SPHR/GPHR/PHR
+T46	Time 4010 4020	8-10 years
+T47	Organization 4233 4268	International Management/co-Workers
+T48	Organization 4269 4272	
+  
+T49	Money 5520 5522	LI

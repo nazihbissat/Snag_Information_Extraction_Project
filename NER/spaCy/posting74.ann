@@ -1,0 +1,84 @@
+T1	Organization 10 27	AA Headquarters 2
+T2	Organization 38 79	
+
+Additional Locations: None
+
+Requisition
+T3	Person 99 105	
+
+Join
+T4	Organization 362 379	American Airlines
+T5	Organization 556 573	American Airlines
+T6	Organization 665 672	Company
+T7	Date 1254 1270	almost a century
+T8	Event 1375 1388	The Job
+
+This
+T9	Organization 1408 1436	the Marketing & Loyalty Team
+T10	Organization 1444 1476	the Marketing & Loyalty Division
+T11	Organization 1875 1882	Analyst
+T12	Cardinal 1939 1944	three
+T13	Organization 1951 1991	
+  - Customer Satisfaction Tracking Data
+T14	Organization 1991 2004	
+  - Provides
+T15	Organization 2051 2054	
+  
+T16	Organization 2259 2286	Ad-Hoc Research
+  - Designs
+T17	Cardinal 2521 2524	one
+T18	Cardinal 2528 2531	one
+T19	Organization 2597 2600	
+  
+T20	Organization 2644 2678	Voice of the Customer
+  - Develops
+T21	Organization 2718 2721	VOC
+T22	Organization 2734 2757	American
+  - Integrates
+T23	Organization 2860 2870	
+  - Works
+T24	Organization 2991 3032	
+
+Qualifications
+
+Required Qualifications
+T25	Person 3038 3046	Bachelor
+T26	Person 3064 3067	
+  
+T27	Organization 3118 3165	
+
+Preferred Qualifications
+
+  - Master's degree
+T28	Organization 3169 3198	Marketing, Marketing Research
+T29	Organization 3217 3241	
+  - Feedback Management
+T30	Organization 3267 3281	
+  - Moderator
+T31	Organization 3302 3314	
+  - Ability
+T32	Organization 3449 3463	
+  - Extremely
+T33	Organization 3613 3632	
+  - Self-motivator
+T34	Organization 3693 3704	
+  - Client
+T35	Organization 3779 3783	SPSS
+T36	Organization 3831 3834	
+  
+T37	Organization 3847 3863	Microsoft Office
+T38	Product 3880 3885	Word,
+T39	Product 3886 3891	Excel
+T40	Product 3893 3899	Access
+T41	Organization 3901 3911	PowerPoint
+T42	Organization 3912 3953	
+
+Additional Locations: None
+
+Requisition
+T43	Job_Title_or_Degree 3965 3985	Nearest Major Market
+T44	Location_Geo-Political_Area 3987 3997	Fort Worth
+T45	Product 3999 4023	Nearest Secondary Market
+T46	Location_Geo-Political_Area 4025 4031	Dallas
+T47	Organization 4046 4075	Data Analyst, Market Research
+T48	Organization 4077 4092	Data, Marketing

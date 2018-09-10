@@ -1,0 +1,75 @@
+T1	Organization 272 275	SAS
+T2	Person 316 325	
+
+Designs
+T3	Person 711 717	Builds
+T4	Organization 752 755	SAS
+T5	Organization 909 912	SAS
+T6	Organization 919 923	VSAM
+T7	Organization 935 947	Adobe, Excel
+T8	Organization 949 952	SAS
+T9	Organization 971 976	COBOL
+T10	Person 980 986	Builds
+T11	Organization 1186 1196	Translates
+T12	Organization 1479 1484	SCPMG
+T13	Date 1500 1503	May
+T14	Date 1555 1558	May
+T15	Date 1664 1667	May
+T16	Product 1725 1737	Communicates
+T17	Organization 1853 1858	SCPMG
+T18	Organization 1909 1915	N/A.
+
+
+T19	Person 1924 1934	
+
+Bachelor
+T20	Date 2080 2094	four (4) years
+T21	Organization 2171 2200	General Education Development
+T22	Organization 2202 2205	GED
+T23	Organization 2227 2288	Certification, Registration
+
+N/A.
+
+Additional Requirements:
+
+
+T24	Organization 2514 2517	JCL
+T25	Organization 2538 2554	Microsoft Office
+T26	Organization 2908 2936	Labor/Management Partnership
+T27	Cardinal 2986 2991	three
+T28	Date 2993 3001	3) years
+T29	Organization 3017 3020	SAS
+T30	Organization 3025 3028	SQL
+T31	Cardinal 3071 3076	three
+T32	Date 3078 3086	3) years
+T33	Organization 3182 3185	SQL
+T34	Organization 3195 3197	AF
+T35	Organization 3203 3211	SASGRAPH
+T36	Organization 3213 3224	PROC Report
+T37	Organization 3255 3258	SAS
+T38	Organization 3338 3345	MVS/TSO
+T39	Location_Geo-Political_Area 3422 3432	California
+T40	Location_Geo-Political_Area 3433 3442	Lancaster
+T41	Location_Geo-Political_Area 3443 3452	Lancaster
+T42	Ordinal 3453 3457	10th
+T43	Organization 3458 3482	St. West Medical Offices
+T44	Cardinal 3483 3486	615
+T45	Cardinal 3518 3520	40
+T46	Person 3528 3540	Day Workdays
+T47	Person 3542 3545	Mon
+T48	Time 3587 3594	8:00 AM
+T49	Event 3595 3612	Working Hours End
+T50	Time 3614 3621	5:00 PM
+T51	Person 3656 3680	Standard Employee Status
+T52	Organization 3682 3722	Regular Employee Group/Union Affiliation
+T53	Organization 3734 3743	Non-Union
+T54	Location_Geo-Political_Area 3745 3761	Exempt Job Level
+T55	Organization 3763 3799	Individual Contributor Job Category:
+T56	Organization 3800 3833	Information Technology Department
+T57	Organization 3835 3856	Administration Travel
+T58	Percent 3863 3866	5 %
+T59	Organization 3870 3897	the Time
+
+Kaiser Permanente
+T60	Location_Geo-Political_Area 4623 4636	San Francisco
+T61	Organization 4641 4675	Los Angeles Fair Chance Ordinances
